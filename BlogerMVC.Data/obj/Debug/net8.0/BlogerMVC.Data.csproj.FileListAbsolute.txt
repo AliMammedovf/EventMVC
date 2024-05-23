@@ -1,0 +1,17 @@
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Data.deps.json
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Data.runtimeconfig.json
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Data.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Data.pdb
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Core.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\bin\Debug\net8.0\BlogerMVC.Core.pdb
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.csproj.AssemblyReference.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.AssemblyInfoInputs.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.AssemblyInfo.cs
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMV.8A157A2E.Up2Date
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\refint\BlogerMVC.Data.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.pdb
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\BlogerMVC.Data.genruntimeconfig.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Data\obj\Debug\net8.0\ref\BlogerMVC.Data.dll

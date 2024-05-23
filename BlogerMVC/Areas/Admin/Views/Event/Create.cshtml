@@ -1,0 +1,31 @@
+﻿@using BlogerMVC.Core.Models
+@model Event
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Title</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Content</label>
+                    <input asp-for="Content" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span asp-validation-for="Content" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Description</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">ImageFile</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </form>
+        </div>
+    </div>
+</div>

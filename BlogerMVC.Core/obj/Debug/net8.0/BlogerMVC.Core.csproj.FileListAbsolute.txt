@@ -1,0 +1,12 @@
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\bin\Debug\net8.0\BlogerMVC.Core.deps.json
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\bin\Debug\net8.0\BlogerMVC.Core.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\bin\Debug\net8.0\BlogerMVC.Core.pdb
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.csproj.AssemblyReference.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.AssemblyInfoInputs.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.AssemblyInfo.cs
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.csproj.CoreCompileInputs.cache
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\refint\BlogerMVC.Core.dll
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\BlogerMVC.Core.pdb
+C:\Users\V&V\Desktop\CodeAcademy\BlogerMVC\BlogerMVC.Core\obj\Debug\net8.0\ref\BlogerMVC.Core.dll

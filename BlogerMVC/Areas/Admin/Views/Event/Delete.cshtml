@@ -1,0 +1,21 @@
+﻿@using BlogerMVC.Core.Models
+@model Event
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="DeletePost" method="post" enctype="multipart/form-data">
+                <div class="card" style="width: 18rem;">
+                    <img src="/uploads/events/@Model.ImageUrl" class="card-img-top" >
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Title</h5>
+                        <p class="card-text">@Model.Description</p>
+                        <a asp-action="Index" asp-controller="Event" class="btn btn-primary">Go Back</a>
+                        <input type="type" asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <button type="submit" class="btn btn-outline-danger">Delete</button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

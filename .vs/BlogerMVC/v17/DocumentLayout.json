@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\viewmodels\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\viewmodels\\userregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|solutionrelative:blogermvc.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|solutionrelative:blogermvc.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\services\\concret\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\services\\concret\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\services\\abstract\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\services\\abstract\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\exceptions\\idnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\exceptions\\idnullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\exceptions\\filenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\exceptions\\filenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.business\\blogermvc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79E36038-68C4-46A1-9B39-D4F44BC728FF}|BlogerMVC.Business\\BlogerMVC.Business.csproj|solutionrelative:blogermvc.business\\blogermvc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.data\\repositoryconcret\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|solutionrelative:blogermvc.data\\repositoryconcret\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.data\\repositoryconcret\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|solutionrelative:blogermvc.data\\repositoryconcret\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.core\\repositoryabstract\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|solutionrelative:blogermvc.core\\repositoryabstract\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|solutionrelative:blogermvc.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.core\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|solutionrelative:blogermvc.core\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B9EFBF-60B7-42B2-8EA9-B01443C7FA2E}|BlogerMVC.Core\\BlogerMVC.Core.csproj|solutionrelative:blogermvc.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA76CE3F-A0B0-4DF4-9372-0FB99220C15A}|BlogerMVC\\BlogerMVC.csproj|solutionrelative:blogermvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|c:\\users\\v\u0026v\\desktop\\codeacademy\\blogermvc\\blogermvc.data\\migrations\\20240522184404_eventstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533611D0-EF1F-4CB9-92C3-EA13E5E62A27}|BlogerMVC.Data\\BlogerMVC.Data.csproj|solutionrelative:blogermvc.data\\migrations\\20240522184404_eventstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAADYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:30:38.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BlogerMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:17:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\UserLoginVm.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\ViewModels\\UserLoginVm.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\UserLoginVm.cs",
+              "RelativeToolTip": "BlogerMVC\\ViewModels\\UserLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:15:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlogerMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAD8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:00:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAHMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:07:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:06:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T21:09:37.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:05:35.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\UserRegisterVm.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\ViewModels\\UserRegisterVm.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\UserRegisterVm.cs",
+              "RelativeToolTip": "BlogerMVC\\ViewModels\\UserRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:57:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:25:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Program.cs",
+              "RelativeToolTip": "BlogerMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:05:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogerMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:05:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "BlogerMVC\\ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:26:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:27:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:14:43.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwIQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:14:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:27:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "BlogerMVC.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:18:21.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:46:15.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:27:13.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:46:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Services\\Concret\\EventService.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Services\\Concret\\EventService.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Services\\Concret\\EventService.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Services\\Concret\\EventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:00:07.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BlogerMVC.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:35:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:46:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:04:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IdNullException.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\IdNullException.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Exceptions\\IdNullException.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\IdNullException.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Exceptions\\IdNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:04:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Services\\Abstract\\IEventService.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Services\\Abstract\\IEventService.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Services\\Abstract\\IEventService.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Services\\Abstract\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:57:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileContentException.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileContentException.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Exceptions\\FileContentException.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileContentException.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Exceptions\\FileContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:03:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileNullException.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileNullException.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\Exceptions\\FileNullException.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\Exceptions\\FileNullException.cs",
+              "RelativeToolTip": "BlogerMVC.Business\\Exceptions\\FileNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:03:13.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlogerMVC.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\BlogerMVC.Business.csproj",
+              "RelativeDocumentMoniker": "BlogerMVC.Business\\BlogerMVC.Business.csproj",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Business\\BlogerMVC.Business.csproj",
+              "RelativeToolTip": "BlogerMVC.Business\\BlogerMVC.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T19:00:34.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\RepositoryConcret\\EventRepository.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Data\\RepositoryConcret\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\RepositoryConcret\\EventRepository.cs",
+              "RelativeToolTip": "BlogerMVC.Data\\RepositoryConcret\\EventRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:55:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\RepositoryConcret\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Data\\RepositoryConcret\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\RepositoryConcret\\GenericRepository.cs",
+              "RelativeToolTip": "BlogerMVC.Data\\RepositoryConcret\\GenericRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:51:27.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\RepositoryAbstract\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Core\\RepositoryAbstract\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\RepositoryAbstract\\IEventRepository.cs",
+              "RelativeToolTip": "BlogerMVC.Core\\RepositoryAbstract\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:50:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeToolTip": "BlogerMVC.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:47:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240522184404_EventsTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\Migrations\\20240522184404_EventsTableCreated.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Data\\Migrations\\20240522184404_EventsTableCreated.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Data\\Migrations\\20240522184404_EventsTableCreated.cs",
+              "RelativeToolTip": "BlogerMVC.Data\\Migrations\\20240522184404_EventsTableCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:44:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogerMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\appsettings.json",
+              "RelativeToolTip": "BlogerMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T18:39:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Core\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\Event.cs",
+              "RelativeToolTip": "BlogerMVC.Core\\Models\\Event.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:31:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlogerMVC.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "BlogerMVC.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:31:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwCwBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:14:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:13:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\CodeAcademy\\BlogerMVC\\BlogerMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogerMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:13:11.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
